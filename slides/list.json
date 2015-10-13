@@ -1,0 +1,76 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background-image": "/img/stream-2.gif",
+            "data-background-image-size": "cover"
+        }
+    },
+    "me.md",
+    {
+        "filename": "ziel.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "agenda.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    "es6-1.md",
+    "es6-2.md",
+    "es6-3.md",
+    {
+        "filename": "observables-0.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    {
+        "filename": "observables-1.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    "observables-2.md",
+    "observables-3.md",
+    "observables-4.md",
+    "observables-5.md",
+    "observables-6.md",
+    "observables-7.md",
+    "observables-8.md",
+    "observables-9.md",
+    "observables-10.md",
+    "observables-11.md",
+    {
+        "filename": "streams-1.md",
+        "attr": {
+            "data-background-image": "/img/stream-6.gif"
+        }
+    },
+    "streams-2.md",
+    "streams-3.md",
+    "streams-4.md",
+    "streams-5.md",
+    "streams-6.md",
+    "streams-7.md",
+    "streams-8.md",
+    "streams-9.md",
+    "beispiele-1.md",
+    "beispiele-6.md",
+    "beispiele-7.md",
+    {
+        "attr": {
+            "data-background-image": "/img/observable-counter-stream.png",
+            "data-background-size": "contain",
+            "class": "no-opacity"
+        }
+    },
+    "beispiele-2.md",
+    "beispiele-3.md",
+    "beispiele-4.md",
+    "beispiele-5.md",
+    "ty.md"
+]
