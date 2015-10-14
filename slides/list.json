@@ -72,5 +72,10 @@
     "beispiele-3.md",
     "beispiele-4.md",
     "beispiele-5.md",
-    "ty.md"
+    {
+        "filename": "ty.md",
+        "attr": {
+            "data-background-image": "/img/stream-4.gif"
+        }
+    }
 ]
