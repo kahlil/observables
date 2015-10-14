@@ -2,7 +2,7 @@
     {
         "filename": "index.md",
         "attr": {
-            "data-background-image": "/resources/img/stream-2.gif",
+            "data-background-image": "resources/img/stream-2.gif",
             "data-background-image-size": "cover"
         }
     },
@@ -47,7 +47,7 @@
     {
         "filename": "streams-1.md",
         "attr": {
-            "data-background-image": "/resources/img/stream-6.gif"
+            "data-background-image": "resources/img/stream-6.gif"
         }
     },
     "streams-2.md",
@@ -63,7 +63,7 @@
     "beispiele-7.md",
     {
         "attr": {
-            "data-background-image": "/resources/img/observable-counter-stream.png",
+            "data-background-image": "resources/img/observable-counter-stream.png",
             "data-background-size": "contain",
             "class": "no-opacity"
         }
@@ -75,7 +75,7 @@
     {
         "filename": "ty.md",
         "attr": {
-            "data-background-image": "/resources/img/stream-4.gif"
+            "data-background-image": "resources/img/stream-4.gif"
         }
     }
 ]
