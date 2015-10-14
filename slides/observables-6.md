@@ -4,7 +4,7 @@
 
     [1, 2, 3].map((item) => item + 1);
 
-    → [2, 4, 5]
+    → [2, 3, 4]
 
 UND Observables
 
@@ -13,5 +13,5 @@ UND Observables
 Nur eben auf einer Zeitleiste:
 
     → 2
+    → 3
     → 4
-    → 5
